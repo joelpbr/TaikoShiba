@@ -1,4 +1,4 @@
-# TaikoShiba! 太鼓柴 - By Apollo
+# TaikoShiba! 太鼓柴 - By Joel
 
 ## [TJAPlayer2fPC] 
 	➤ (https://github.com/kairera0467/TJAP2fPC)
